@@ -4,3 +4,5 @@ x = True
 y = 10
 # 3: Create a float variable named z
 z= 3.5
+# 4: Create a string variable named s
+s = 'Mystro'
