@@ -6,3 +6,8 @@ y = 10
 z= 3.5
 # 4: Create a string variable named s
 s = 'Mystro'
+# 5: Convert the int variable to float
+x = float(5)
+x = 5.0
+
+
