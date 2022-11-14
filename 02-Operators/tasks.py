@@ -1,4 +1,4 @@
-#1: what is the difference between = and ==
+#1: what is the difference between = , ==
 
 #2: what do we mean by using !=
 
@@ -22,4 +22,4 @@
 
 #11: divide 11 by 3 using python divison
 
-#12: can you divide 11 by 3 and get an int number
+#12: can we divide 11 by 3 and get an int number?
