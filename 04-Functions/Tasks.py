@@ -1,11 +1,12 @@
 #1:create a simple function that takes 2 numbers and print their values
 def num(x, y):
-    return x, y
-
-print(num(1, 5))
-
+    print( x, y)
+num(4,2)    
 #2:create a simple function that takes 2 numbers and return their values
-
+def num(x, y):
+    return x, y
+number = num(5, 7)
+print(number)
 
 
 #3:In the above return function, use keyword and arguments when calling the function
