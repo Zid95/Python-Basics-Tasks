@@ -1,7 +1,10 @@
 #1:create a simple function that takes 2 numbers and print their values
+def num(x, y):
+    return x, y
 
+print(num(1, 5))
 
-#2:create a simple function that takes 2 numbers and reurn their values
+#2:create a simple function that takes 2 numbers and return their values
 
 
 
