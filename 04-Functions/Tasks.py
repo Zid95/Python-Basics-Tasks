@@ -26,6 +26,8 @@ print(number)
 
 
 #7: call lambda on the same line
+x = (lambda x, y: x + y)(5, 7)
+print(x)
 
 
 #8:difference between local variable and global variable
