@@ -1,4 +1,6 @@
 #1: check if 10 is bigger than 15 or not.
+print(10 > 15)
+output : False
 
 #2: if 10 is not bigger than 15 print x is smaller than 15.
 
