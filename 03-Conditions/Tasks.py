@@ -2,8 +2,9 @@
 print(10 > 15)
 output : False
 
-#2: if 10 is not bigger than 15 print x is smaller than 15.
-
+#2: if 10 is not bigger than 15 print 10 is smaller than 15.
+if not 10 > 15 :
+  print("10 is smaller than 15")
 
 
 #3: in which cases we will use all.
